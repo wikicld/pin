@@ -1,2 +1,2 @@
 # Pinteres
-Pinteres -> https://ru.pinterest.com/wikicld/
+Pinteres -> https://pinterest.com/wikicld/
